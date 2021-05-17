@@ -15,6 +15,7 @@ public class Feedback {
 	private int userID;
 	private int orgID;
 	private String message;
+	//private String
 
 	public int getFeedbackID() {
 		return feedbackID;
